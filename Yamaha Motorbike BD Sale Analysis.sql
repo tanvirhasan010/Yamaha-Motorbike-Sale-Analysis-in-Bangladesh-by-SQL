@@ -1,3 +1,5 @@
+CREATE DATABASE Yamaha_Bangladesh_MotorBike_Sales;
+
 CREATE TABLE Customers (
     CustomerID SERIAL PRIMARY KEY,
     FirstName VARCHAR(50),
